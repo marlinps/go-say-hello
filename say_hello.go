@@ -1,7 +1,7 @@
 package go_say_hello
 
 func SayHello(name string) string { //nama func Uppercase agar diset sebagai public
-	return "Hello" + name
+	return "Hello " + name
 }
 
 //go mod init nama-module u/ membuat module baru
