@@ -4,5 +4,5 @@ func SayHello(name string) string { //nama func Uppercase agar diset sebagai pub
 	return "Hello " + name
 }
 
-//go mod init nama-module u/ membuat module baru
+//go mod init nama-module u/ membuat module baru.
 //go get nama-module u/menambahkan dependency dimodule kita
